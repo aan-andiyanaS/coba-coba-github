@@ -1,0 +1,8 @@
+- Git & Github
+- Python
+- Machine Learning
+- Computer Vision
+- Natual Language Processing
+- Deep Learning
+- Large Language Models
+- Augmented Reality
