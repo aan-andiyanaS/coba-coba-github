@@ -1,8 +1,12 @@
 - Git & Github
 - Python
+- Artificial Intelligence
 - Machine Learning
-- Computer Vision
+- 3D Computer Vision
 - Natual Language Processing
 - Deep Learning
 - Large Language Models
 - Augmented Reality
+- LiDAR
+- SLaM
+- Virtual Reality
